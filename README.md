@@ -1,4 +1,4 @@
-# Classification-Model-Comparison-and-Improvement
+# Classification Model Comparison and Improvement
 This project is about credit risk measurement for a bank. The project entailed a comprehensive analysis of client default tendencies relative to their backgrounds using advanced classification models, providing actionable insights by model comparison and refinement.
 
 ## Project Structure
