@@ -16,6 +16,7 @@ _Model Combination_ - Combine and improve the model by integrating the top 3 per
  - <strong> 'Slide.pdf': </strong> The slide presented at the Annual Conference of Financial and Banking Perspectives. 
 
 ## Conclusions
+According to the model comparison, KNN has the highest sensitivity and Random Forest has the highest of both specificity and accuracy. By integrating the top 3 performing models using Boosting techniques, we finally construct a model with an accuracy rate of 93%.
 
 ## Contact Information
 If you have any questions, please contact [simin.yu@columbia.edu].
