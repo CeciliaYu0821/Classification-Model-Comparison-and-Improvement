@@ -4,7 +4,7 @@ This project is about credit risk measurement for a bank. The project entailed a
 ## Project Structure
 The project is organized into the following components:
 
-<strong> - 'credit_risk_dataset.csv': </strong>  <br>
+<strong> - 'credit_risk_dataset.csv': </strong>The dataset overall contains 12 columns with information about clients' backgrounds and some traits of their loans.  <br>
 <strong> - 'Data Analysis.R': </strong>  <br>
 <strong> - 'Paper.pdf': </strong>  <br>
 <strong> - 'Slide.pdf': </strong>  
