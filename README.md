@@ -5,6 +5,7 @@ This project is about credit risk measurement for a bank. The project entailed a
 The project is organized into the following components:
 
  - <strong>'credit_risk_dataset.csv': </strong> The dataset overall contains 12 columns with information about clients' backgrounds and some traits of their loans. There are 32573 data points in total. <br>
+ 
  - <strong> 'Data Analysis.R': </strong> The R code contains the entire steps taken in the data analysis process.<br>
 _Data Preprocessing_  - First, drop the rows with null values. Second, use synthetic data generation to deal with the unbalanced data. Third, apply correlation tests and principal component analysis. <br>
 _Model Analysis_ - Conduct a suite of 5 classification models (Logistic Regression, KNN, SVM, Decision Tree, Random Forest) to the data with/without PCA, respectively. <br>
